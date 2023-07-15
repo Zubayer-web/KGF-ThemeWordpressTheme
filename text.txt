@@ -1,0 +1,21 @@
+     <!-- carousel part -->
+     <?php get_template_part('inc/carousel'); ?>
+
+      <!-- about part -->
+      <?php get_template_part('inc/about'); ?>
+
+       <!-- service part -->
+        <?php get_template_part('inc/services'); ?>
+        
+        <!-- facts part -->
+        <?php get_template_part('inc/facts'); ?>
+        
+        <!-- pricing part -->
+        <?php get_template_part('inc/facts'); ?>
+        <!-- location part -->
+       <?php get_template_part('inc/location'); ?>
+ <!-- location part -->
+ <?php get_template_part('inc/team'); ?>
+ <!-- Testimonial part -->
+ <?php get_template_part('inc/testimonial'); ?>
+ <?php get_template_part('inc/Breadcrumb'); ?>  
